@@ -19,3 +19,4 @@ LearnSphere is a full stack learning platform built using Java, Spring Boot, HTM
 
 ## 👨‍💻 Author
 T S Viveka
+Java Full Stack Developer 
